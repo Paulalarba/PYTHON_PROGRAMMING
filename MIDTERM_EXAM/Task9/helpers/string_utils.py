@@ -1,11 +1,2 @@
-def shout(s: str) -> str:
-    """
-    Converts a string to uppercase.
-    
-    Args:
-        s: Input string
-        
-    Returns:
-        Uppercase version of the string
-    """
+def shout(s):
     return s.upper()
